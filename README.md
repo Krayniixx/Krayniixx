@@ -81,11 +81,11 @@ int main() {
 
 ---
 
-### 🏆 GitHub Trophies
+### 🐍 Contribution Snake
 
 <br>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=krayniix&theme=dracula&column=7&margin-w=10&no-bg=true)
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
@@ -105,7 +105,7 @@ int main() {
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-krayniix-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-krayniix-A855F7?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com](https://discord.gg/E4buaPCAz5))
 [![GitHub](https://img.shields.io/badge/GitHub-krayniix-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krayniix)
 
 <br>
