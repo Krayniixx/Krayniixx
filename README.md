@@ -91,7 +91,7 @@ int main() {
 <br>
 
 [![Discord](https://img.shields.io/badge/Discord-krayniix-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/E4buaPCAz5)
-[![GitHub](https://img.shields.io/badge/GitHub-krayniix-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krayniix)
+[![GitHub](https://img.shields.io/badge/GitHub-krayniix-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krayniixx)
 
 <br>
 
