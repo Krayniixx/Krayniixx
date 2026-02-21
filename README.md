@@ -75,7 +75,6 @@ int main() {
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krayniix&layout=compact&theme=midnight-purple&border_color=7C3AED&bg_color=0D0D1A&title_color=A855F7&text_color=ffffff" width="42%"/>
 
 <br>
 
