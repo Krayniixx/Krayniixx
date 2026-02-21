@@ -72,20 +72,6 @@ int main() {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krayniix&theme=midnight-purple&border=7C3AED&background=0D0D1A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="60%"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krayniix&layout=compact&theme=midnight-purple&border_color=7C3AED&bg_color=0D0D1A&title_color=A855F7&text_color=ffffff&langs_count=6" width="42%"/>
-
-<br>
-
----
-
-### 🐍 Contribution Snake
-
-<br>
-
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
 <br>
 
 ---
