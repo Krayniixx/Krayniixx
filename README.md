@@ -80,7 +80,7 @@ int main() {
 
 <br>
 
-![Snake](https://raw.githubusercontent.com/krayniix/krayniix/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/Krayniix/Krayniix/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
