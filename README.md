@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=krayniix&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=C%2B%2B%20%7C%20C%23%20Developer&descAlignY=58&descSize=22)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=krayniix&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=42&desc=C%2B%2B%20%7C%20C%23%20Developer&descAlignY=62&descSize=20)
 
 <br>
 
@@ -105,7 +105,7 @@ int main() {
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-krayniix-A855F7?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com](https://discord.gg/z4tEEXBzHx))
+[![Discord](https://img.shields.io/badge/Discord-krayniix-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-krayniix-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krayniix)
 
 <br>
