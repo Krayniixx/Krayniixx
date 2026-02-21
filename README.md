@@ -76,16 +76,6 @@ int main() {
 
 ---
 
-### 🐍 Contribution Snake
-
-<br>
-
-![Snake](https://raw.githubusercontent.com/Krayniix/Krayniix/output/github-contribution-grid-snake-dark.svg)
-
-<br>
-
----
-
 ### 📈 Activity Graph
 
 <br>
