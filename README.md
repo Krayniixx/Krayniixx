@@ -70,11 +70,11 @@ int main() {
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=krayniix&show_icons=true&theme=midnight-purple&border_color=7C3AED&bg_color=0D0D1A&title_color=A855F7&icon_color=A855F7&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krayniix&theme=midnight-purple&border=7C3AED&background=0D0D1A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krayniix&theme=midnight-purple&border=7C3AED&background=0D0D1A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="60%"/>
 
 <br><br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krayniix&layout=compact&theme=midnight-purple&border_color=7C3AED&bg_color=0D0D1A&title_color=A855F7&text_color=ffffff&langs_count=6" width="42%"/>
 
 <br>
 
@@ -104,7 +104,7 @@ int main() {
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-krayniix-A855F7?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com](https://discord.gg/E4buaPCAz5))
+[![Discord](https://img.shields.io/badge/Discord-krayniix-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-krayniix-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krayniix)
 
 <br>
